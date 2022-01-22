@@ -1,2 +1,2 @@
-# Final-Projcet
+# Final-Project
 Spotify-Clone.
